@@ -3,7 +3,7 @@ Foi desenvolvido uma aplicação web (responsiva) de música referente ao Checkp
 
 ## Tecnologia utilizada
 - HTML, CSS
-- Tailwind[#https://tailwindcss.com/] (framework-css)
+- Tailwind (framework-css)
 - API SoundCloud
 
 ## Nome dos integrantes do grupo:
